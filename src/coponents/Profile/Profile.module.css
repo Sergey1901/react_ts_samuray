@@ -1,0 +1,8 @@
+.context {
+  grid-area: c;
+  background-color: aquamarine;
+}
+
+.context img {
+  width: 1200px;
+}
