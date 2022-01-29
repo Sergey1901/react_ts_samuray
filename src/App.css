@@ -1,6 +1,6 @@
 .App {
   display: grid;
-  wight: 1200px;
+  wight: 1000px;
   margin: 0 auto;
 
   grid-template-areas:

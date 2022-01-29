@@ -4,6 +4,7 @@
   background-color: darkgray;
 }
 
-.item {
+.item a{
   color: black;
+  text-decoration: none;
 }
